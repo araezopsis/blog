@@ -1,4 +1,4 @@
-baseURL = "https://araezopsis.github.io/golang_practice/"
+baseURL = "https://araezopsis.github.io/blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hyde-hyde"
