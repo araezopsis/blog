@@ -1,5 +1,0 @@
-baseURL = "https://araezopsis.github.io/blog/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hyde-hyde"
-canonifyurls = true
