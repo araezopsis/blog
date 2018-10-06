@@ -3,17 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://araezopsis.github.io/blog/categories/</loc>
+    <loc>http://example.org/post/hamaridokoro/</loc>
+    <lastmod>2018-10-06T11:11:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/my-new-post/</loc>
+    <lastmod>2018-10-06T11:10:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://araezopsis.github.io/blog/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-10-06T11:11:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://araezopsis.github.io/blog/tags/</loc>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2018-10-06T11:11:46+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
     <priority>0</priority>
   </url>
   
