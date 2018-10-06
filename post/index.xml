@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://araezopsis.github.io/blog/post/</link>
+    <link>https://araezopsis.github.io/blog/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Oct 2018 11:11:46 +0900</lastBuildDate>
     
-	<atom:link href="http://araezopsis.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://araezopsis.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>はまりどころ</title>
-      <link>http://araezopsis.github.io/blog/post/hamaridokoro/</link>
+      <link>https://araezopsis.github.io/blog/post/hamaridokoro/</link>
       <pubDate>Sat, 06 Oct 2018 11:11:46 +0900</pubDate>
       
-      <guid>http://araezopsis.github.io/blog/post/hamaridokoro/</guid>
+      <guid>https://araezopsis.github.io/blog/post/hamaridokoro/</guid>
       <description>HUGOではまったことメモ
  YAML header のdraftがtrueだと記事が反映されない。  draft:false </description>
     </item>
     
     <item>
       <title>My New Post</title>
-      <link>http://araezopsis.github.io/blog/post/my-new-post/</link>
+      <link>https://araezopsis.github.io/blog/post/my-new-post/</link>
       <pubDate>Sat, 06 Oct 2018 11:10:38 +0900</pubDate>
       
-      <guid>http://araezopsis.github.io/blog/post/my-new-post/</guid>
+      <guid>https://araezopsis.github.io/blog/post/my-new-post/</guid>
       <description>hello world</description>
     </item>
     
