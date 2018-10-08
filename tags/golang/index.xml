@@ -17,7 +17,7 @@
       <pubDate>Sat, 06 Oct 2018 22:44:42 +0900</pubDate>
       
       <guid>https://araezopsis.github.io/blog/post/programing-go-chapter1/</guid>
-      <description> 1.1 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World&amp;#34;) }</description>
+      <description>1.1 ハローワールド gopl.io/ch1/helloworld package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World&amp;#34;) } 1.2 コマンドライン引数 gopl.io/ch1/echo1 //Echo1は、そのコマンドライン引数を表示します。 package main import ( &amp;#34;fmt&amp;#34; &amp;#34;os&amp;#34; ) func main() { var s, sep string for i := 1; i &amp;lt; len(os.Args); i++ { s += sep + os.Args[i] sep = &amp;#34; &amp;#34; } fmt.Println(s) } gopl.io/ch1/echo2 //Echo2は、そのコマンドライン引数を表示します。 package main import ( &amp;#34;fmt&amp;#34; &amp;#34;os&amp;#34; ) func main() { s, sep := &amp;#34;&amp;#34;, &amp;#34;&amp;#34; for _, arg := range os.</description>
     </item>
     
     <item>

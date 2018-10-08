@@ -57,7 +57,11 @@
     <a href="https://araezopsis.github.io/blog/post/programing-go-chapter1/">Programing Go Chapter1</a>
   </h1>
   <time datetime="2018-10-06T22:44:42&#43;0900" class="post-date">Sat, Oct 6, 2018</time>
-   1.1 package main import &#34;fmt&#34; func main() { fmt.Println(&#34;Hello, World&#34;) }
+  1.1 ハローワールド gopl.io/ch1/helloworld package main import &#34;fmt&#34; func main() { fmt.Println(&#34;Hello, World&#34;) } 1.2 コマンドライン引数 gopl.io/ch1/echo1 //Echo1は、そのコマンドライン引数を表示します。 package main import ( &#34;fmt&#34; &#34;os&#34; ) func main() { var s, sep string for i := 1; i &lt; len(os.Args); i++ { s += sep + os.Args[i] sep = &#34; &#34; } fmt.Println(s) } gopl.io/ch1/echo2 //Echo2は、そのコマンドライン引数を表示します。 package main import ( &#34;fmt&#34; &#34;os&#34; ) func main() { s, sep := &#34;&#34;, &#34;&#34; for _, arg := range os.
+  
+  <div class="read-more-link">
+    <a href="https://araezopsis.github.io/blog/post/programing-go-chapter1/">Read More…</a>
+  </div>
   
 </article><article class="post">
   <h1 class="post-title">
