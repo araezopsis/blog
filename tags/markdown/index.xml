@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Golang練習帳</title>
+    <link>https://araezopsis.github.io/blog/tags/markdown/</link>
+    <description>Recent content in Markdown on Golang練習帳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 06 Oct 2018 21:41:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://araezopsis.github.io/blog/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Memo</title>
+      <link>https://araezopsis.github.io/blog/post/markdown-memo/</link>
+      <pubDate>Sat, 06 Oct 2018 21:41:57 +0900</pubDate>
+      
+      <guid>https://araezopsis.github.io/blog/post/markdown-memo/</guid>
+      <description>見出し # 見出し1 ## 見出し2 ### 見出し3 #### 見出し4 ##### 見出し5 ###### 見出し6  見出し1 見出し2 見出し3 見出し4 見出し5 見出し6 段落 改行をいれる。
+段落1 段落2  段落1
+段落2
+改行 スペース2個
+行1 行2 行1 行2  行1 行2
+行1
+行2</description>
+    </item>
+    
+  </channel>
+</rss>

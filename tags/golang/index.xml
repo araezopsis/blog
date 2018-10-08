@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Golang練習帳</title>
+    <link>https://araezopsis.github.io/blog/tags/golang/</link>
+    <description>Recent content in Golang on Golang練習帳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 06 Oct 2018 22:44:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://araezopsis.github.io/blog/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programing Go Chapter1</title>
+      <link>https://araezopsis.github.io/blog/post/programing-go-chapter1/</link>
+      <pubDate>Sat, 06 Oct 2018 22:44:42 +0900</pubDate>
+      
+      <guid>https://araezopsis.github.io/blog/post/programing-go-chapter1/</guid>
+      <description> 1.1 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World&amp;#34;) }</description>
+    </item>
+    
+    <item>
+      <title>First Golang</title>
+      <link>https://araezopsis.github.io/blog/post/first-golang/</link>
+      <pubDate>Sat, 06 Oct 2018 22:42:04 +0900</pubDate>
+      
+      <guid>https://araezopsis.github.io/blog/post/first-golang/</guid>
+      <description>Go言語学習のメモを残す。
+とりあえずまずは写経。
+プログラミング言語Goを読んでいく。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,18 +6,38 @@
     <description>Recent content in Posts on Golang練習帳</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Oct 2018 19:29:32 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 22:44:42 +0900</lastBuildDate>
     
 	<atom:link href="https://araezopsis.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Programing Go Chapter1</title>
+      <link>https://araezopsis.github.io/blog/post/programing-go-chapter1/</link>
+      <pubDate>Sat, 06 Oct 2018 22:44:42 +0900</pubDate>
+      
+      <guid>https://araezopsis.github.io/blog/post/programing-go-chapter1/</guid>
+      <description> 1.1 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World&amp;#34;) }</description>
+    </item>
+    
+    <item>
+      <title>First Golang</title>
+      <link>https://araezopsis.github.io/blog/post/first-golang/</link>
+      <pubDate>Sat, 06 Oct 2018 22:42:04 +0900</pubDate>
+      
+      <guid>https://araezopsis.github.io/blog/post/first-golang/</guid>
+      <description>Go言語学習のメモを残す。
+とりあえずまずは写経。
+プログラミング言語Goを読んでいく。</description>
+    </item>
+    
+    <item>
       <title>Markdown Memo</title>
       <link>https://araezopsis.github.io/blog/post/markdown-memo/</link>
-      <pubDate>Sat, 06 Oct 2018 19:29:32 +0900</pubDate>
+      <pubDate>Sat, 06 Oct 2018 21:41:57 +0900</pubDate>
       
       <guid>https://araezopsis.github.io/blog/post/markdown-memo/</guid>
-      <description>見出し # 見出し1 ## 見出し2 ### 見出し3 #### 見出し4 ##### 見出し5 ###### 見出し6  見出し1 見出し2 見出し3 見出し4 見出し5 見出し6 段落 改行を入れる.
+      <description>見出し # 見出し1 ## 見出し2 ### 見出し3 #### 見出し4 ##### 見出し5 ###### 見出し6  見出し1 見出し2 見出し3 見出し4 見出し5 見出し6 段落 改行をいれる。
 段落1 段落2  段落1
 段落2
 改行 スペース2個

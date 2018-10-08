@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://araezopsis.github.io/blog/post/programing-go-chapter1/</loc>
+    <lastmod>2018-10-06T22:44:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://araezopsis.github.io/blog/post/first-golang/</loc>
+    <lastmod>2018-10-06T22:42:04+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://araezopsis.github.io/blog/post/markdown-memo/</loc>
-    <lastmod>2018-10-06T19:29:32+09:00</lastmod>
+    <lastmod>2018-10-06T21:41:57+09:00</lastmod>
   </url>
   
   <url>
@@ -23,24 +33,49 @@
   </url>
   
   <url>
+    <loc>https://araezopsis.github.io/blog/tags/</loc>
+    <lastmod>2018-10-06T22:42:04+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://araezopsis.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://araezopsis.github.io/blog/tags/chapter1/</loc>
+    <lastmod>2018-10-06T22:44:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://araezopsis.github.io/blog/tags/golang/</loc>
+    <lastmod>2018-10-06T22:44:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://araezopsis.github.io/blog/</loc>
-    <lastmod>2018-10-06T19:29:32+09:00</lastmod>
+    <lastmod>2018-10-06T22:44:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://araezopsis.github.io/blog/tags/markdown/</loc>
+    <lastmod>2018-10-06T21:41:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://araezopsis.github.io/blog/post/</loc>
-    <lastmod>2018-10-06T19:29:32+09:00</lastmod>
+    <lastmod>2018-10-06T22:44:42+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://araezopsis.github.io/blog/tags/</loc>
+    <lastmod>2018-10-06T22:42:04+09:00</lastmod>
     <priority>0</priority>
   </url>
   
